@@ -1,0 +1,455 @@
+
+body{
+    width:100%;
+    overflow-x: hidden;
+}
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+
+.semi-bold{
+    font-weight: 600 !important;
+}
+.bold{
+    font-weight: 700 !important;
+}
+/*Css For Page 1*/
+.cont1{
+  
+    background-size: cover;
+    background-image: url('../images/Page 1/Background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+  
+
+}
+
+
+
+.par1{
+
+
+    height: 300px;
+    padding-top: 5px;
+    padding-left:50px;
+    font-size:30pt;
+    color: white;
+    margin-left: 25px;
+    }
+    
+
+
+.row2{
+    
+    margin-left: 25px;
+    margin-top:0px;
+     height:100px;
+     padding-left: 40px;
+    
+  
+}
+
+
+.Download-Play-Store {
+    width: 130px;
+    height: 140px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.Download-App-Store {
+    width: 120px;
+    height: 35px;
+    margin-top: 52px;
+   
+}
+
+
+
+.logopic {
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.phonediv{
+   
+    
+    overflow: hidden;
+   
+}
+.phonepic {
+  
+    margin-top: 67px;
+
+  margin-bottom: -118px;
+     
+padding-bottom:-130px;
+   
+overflow: hidden;
+}
+
+/*Css For Page 2*/
+
+.page2{
+    text-align: center;
+    font-size: 15pt;
+    padding-bottom:40px;
+ 
+}
+
+.d-flex {
+display: flex;
+flex-wrap: wrap;
+
+align-items:center;
+align-content: center;
+justify-content: center;
+
+}
+
+.d-flex-container{
+margin-bottom: 30px;
+}
+
+
+.a1 {
+
+height: 220px;
+}
+.b1{
+
+height: 220px;
+}
+.d1{
+
+height: 220px;
+}
+
+
+
+.Task-Categories{
+
+    color: rgb(88, 113, 83);
+    
+    
+    font-size: 30pt;
+    padding-top:10px;
+   
+}
+
+a{
+  color: rgb(88, 113, 83);
+ 
+}
+
+/*Css For Page 3*/
+.usebeldit {
+width:350px;
+height:450px;
+margin-right: 20px;
+margin-top:10px;
+
+}
+.pg3{
+  
+    background-image: url('../images/Page 4/Background.jpg');
+height: 480px;
+
+}
+.par2{
+   
+    font-size: 20pt;
+box-sizing:border-box;
+color: rgb(88, 113, 83);
+margin-left: 60px;
+
+
+}
+h2{
+    color: rgb(88, 113, 83);
+    margin-left: 60px;
+font-size:50pt;
+padding-bottom: 20px;
+margin-top: 20px;
+
+font-weight: bold;
+
+
+}
+/* Css For Page 4*/
+
+
+
+
+.foot{
+    background-color: rgb(62,74,62);
+    background-size:cover;
+    margin-right:0px;
+    padding-top:0px;
+    margin-top:0px;
+ color:white;
+font-size: 15pt;
+    text-align: center;
+   
+}
+
+.service{
+    color:rgb(250,202,83);
+    font-size:40pt;
+   
+    margin-top:20px;
+}
+.Portfolio,.Notification,.Tasks{
+    width:80px;
+    height:70px;
+
+    padding-right:25px;
+    object-fit: contain;
+}
+
+.par3{
+  
+
+   
+    font-size: 30pt;
+box-sizing: border-box;
+color: rgb(88, 113, 83);
+margin-left: 65px;
+
+}
+.row3{
+
+   
+    margin-bottom:0px;
+}
+
+
+
+ .Service-Provider{
+    
+    width: 450px;
+    height: 500px;
+   
+
+
+ }
+.col2{
+    padding-right:10px;
+   
+}
+
+.Download-Play-Store1{
+   text-align: center;
+ 
+   width: 130px;
+   height: 140px;
+}
+
+.Download-App-Store1{
+text-align: center;
+width: 120px;
+height: 35px;
+}
+
+/*    Css For Page 5*/
+
+.App-User{
+    color:rgb(250,202,83);
+    font-size:50pt;
+    
+    
+    margin-top:20px;
+   
+    margin-left:50px;
+    padding-left:75px;
+
+}
+
+
+.App-User-img{
+  width: 470px;  
+    height: 500px;
+   padding-bottom:50px;
+  
+ }
+.Post-Task,.Thousands-of-Providers,.Chat,.Rating{
+
+    width:65px;
+    height:60px;
+  padding-right: 8px;
+  margin-right:20px;
+}
+.pg5{
+
+padding-right: 0px;
+margin-right: 0px;
+height:580px;
+
+}
+
+
+
+
+.col1{
+ 
+    padding-right:-20px;
+    
+}
+.par5{
+    
+    font-size: 25pt;
+box-sizing: border-box;
+color: rgb(88, 113, 83);
+margin-left:30px;
+padding-left:70px;
+
+
+
+}
+a:hover{
+
+     color: rgb(88, 113, 83);
+text-decoration: none;
+    }
+     .col11{
+         
+      overflow: hidden;
+         
+     }
+
+
+    /* Css For Page 6*/
+
+.pg6{
+    background-image: url('../images/Page 6/Background.jpg');
+    height:800px;
+    text-align: center;
+  
+}
+
+.Contact-Us{
+    color: rgb(88, 113, 83);
+    
+
+   
+font-size:25pt;
+
+    height:120px;
+}
+
+.ll{
+    display: flex;
+}
+
+
+.form1{
+   
+    position: relative;
+    overflow: visible;
+    padding-top:20px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+   
+     
+}
+.forms{
+    flex:1 !important;
+  height: 250px;
+ 
+
+}
+form{
+    color: grey;
+    background-color: rgb(21,20,26);
+    width:660px;
+    padding-top:20px;
+
+    margin-bottom: -100px;
+    padding-bottom:-30px;
+    overflow: visible;
+    position: absolute;
+ 
+    
+}
+ .map{
+    height:300px;
+    margin-top: 0px;
+    padding-top: 0px;
+  width:100%;
+ 
+
+    }
+   
+
+input[type="text"], textarea, input[type="email"] {
+    color: grey;
+    border-color: grey;
+    background-color :  rgb(21,20,26);
+    font-size:10px;
+    padding:5px;
+    width:270px;
+    margin-left:20px;
+    height:40px;
+    margin-right:5px;
+}
+
+    input[type="text"]:focus, textarea:focus,input[type="email"]:focus {
+        color: grey;
+        border-color: grey;
+     
+        background-color :  rgb(21,20,26);}
+ 
+    
+    textarea{
+        height:155px;
+        margin-left:0px;
+        resize:none;
+      
+        margin-right: 20px;
+    
+    }
+    .footerp6{
+        background-image: url('../images/Footer/Background.jpg');
+        height:110px;
+        color:white;
+        font-size:10pt;
+        margin-bottom: 0px;
+    }
+    .facebook,.Insta,.Youtube,.linkedin{
+        width:30px;
+        height:30px;
+        text-align: center;
+        object-fit: contain;
+        
+    }
+   
+    .flex1{
+        padding-top:10px;
+       
+    }
+    .inputs{
+        margin-left: 20px;
+     
+padding-top:25px;
+        
+    }
+   .inputs1{
+    margin-right: 20px !important;
+    padding-top:0px;
+   }
+   button{
+    background-color: rgb(88, 113, 83);
+    color:white;
+    text-align: center;
+    text-decoration: none;
+   border:none;
+    font-size: 8pt;
+   float: right;
+ border-radius: 2px;
+height:40px;
+width:95px;
+margin-right: 30px;
+margin-top:0px;
+    cursor: pointer;
+}
